@@ -2,26 +2,22 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐 Website** for a living and also **Write some blogs**. 🌈    
+I make elegantly professional **💻 Distributed Systems and 🌐 Website** for a living and also **Write some blogs**. 🌈    
 
 * 🧐   Interested in full stack. Recent focus on backend.
-* 💼   Senior Back End Engineer at Alibaba Group.
-* 🎓   Bachelor of Engineering in Computer Science and Engineering, GPA 3.82/4.0, TOP 3%.
-* 🌱   Currently learning Math & Philosophy.
-* 📚   Reading more about Apple, Harry Potter and how the computer works.
-* 💻   With 4 years' computer science and technology education and 5 years' development working experience.
-* ⛵   Encouraging people for open source collaborations.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 2.26 million PV / 0.63 million UV).
+* 💼   Senior Back End Engineer.
+* 📚   Reading some useless books.
+* ⛵   Encouraging people for open source collaborations and do it myself.
+* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://masantu.com/).
 
 <details>
-  <summary>Some other facts about me-e-e</summary>
+  <summary>Some other facts about me</summary>
   <br>
 
-* 🎉   Professional Membership of ACM / IEEE / IEEE-CS / CCF.
-* 🍎   Apple Developer.👨🏻‍💻 & Apple Teacher.🤪
+* 🎉   Do something in make money.
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfrost&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imoyao&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=imoyao&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
 </p>
 
@@ -32,8 +28,8 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-<a href= "https://github.com/imoyao/idealyard/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://masantu.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+<a href= "https://masantu.com"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<a href= "https://github.com/imoyao/idealyard/"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
 </p>
 
 <p  align="center">
