@@ -38,7 +38,7 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 
 <p  align="center">
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=imoyao.imoyao" alt="visitor badge"/>-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=imoyao.imoyao" alt="visitor badge"/>       
+<img src="https://visitor-badge.laobi.icu/badge?page_id=imoyao.visitor-badge" alt="visitor badge"/>       
 </p>
 
 </p>
